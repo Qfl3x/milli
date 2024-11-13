@@ -1,0 +1,37 @@
+2024/04/22 Last Operation <nil>
+2024/04/22 Last Operation <nil>
+2024/04/22 Key pressed Right
+2024/04/22 BS 8
+2024/04/22 Last Operation <nil>
+2024/04/22 Key pressed Right
+2024/04/22 BS 8
+2024/04/22 Last Operation <nil>
+2024/04/22 Key pressed 
+2024/04/22 BS 8
+2024/04/22 Last Operation &{2 3}
+2024/04/22 Key pressed 
+2024/04/22 BS 8
+2024/04/22 Last Operation &{2 34}
+2024/04/22 Key pressed 
+2024/04/22 BS 8
+2024/04/22 Last Operation &{2 344}
+2024/04/22 Key pressed Ctrl-Z
+2024/04/22 BS 8
+2024/04/22 Last Operation <nil>
+2024/04/22 Key pressed Ctrl-Z
+2024/04/22 BS 8
+2024/04/22 Last Operation <nil>
+2024/04/22 Key pressed Ctrl-Z
+2024/04/22 BS 8
+2024/04/22 Last Operation <nil>
+2024/04/22 Key pressed 
+2024/04/22 BS 8
+2024/04/22 Last Operation &{2 j}
+2024/04/22 Key pressed 
+2024/04/22 BS 8
+2024/04/22 Last Operation &{2 jk}
+2024/04/22 Key pressed 
+2024/04/22 BS 8
+2024/04/22 Last Operation &{2 jkl}
+2024/04/22 Key pressed Ctrl-Z
+2024/04/22 BS 8
